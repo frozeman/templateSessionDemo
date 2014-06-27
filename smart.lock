@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "template-session": {}
+    },
+    "packages": {
+      "template-session": {
+        "git": "https://github.com/frozeman/meteor-template-session.git",
+        "tag": "v0.2.1",
+        "commit": "783dedf2dc1e82f35425d511ec1953689cf4d615"
+      }
+    }
+  }
+}
